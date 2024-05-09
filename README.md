@@ -1,4 +1,4 @@
-**Walmart Sales Analysis**
+**Walmart Sales Analysis - Description :**
 
 This project is **about** analyzing sales data from Walmart, a leading retail chain. Using MySQL queries and database management techniques, I gathered and organized
 vast amounts of sales data spanning different product categories, time periods, and store locations. This dataset contains sales transactions from a three different branches of Walmart,
