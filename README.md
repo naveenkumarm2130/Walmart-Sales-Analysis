@@ -5,7 +5,7 @@ vast amounts of sales data spanning different product categories, time periods, 
 respectively located in Mandalay, Yangon and Naypyitaw. The dataset was obtained from the Kaggle Walmart Sales Forecasting Competition.
 
 The **analysis** covered various aspects such as sales trends over time, top-selling products, seasonal variations, regional sales performance, and customer buying patterns.
-I utilized MySQL functions for calculations, joins, subqueries, and data filtering to generate comprehensive reports and visualizations. The data contains 17 columns and 1000 rows.The project involved cleaning and transforming raw data, implementing data aggregation methods, and conducting complex SQL queries to extract valuable insights.
+I utilized MySQL functions for calculations, joins, subqueries, and data filtering to generate comprehensive reports and visualizations. The data contains 17 columns and 1000 rows. The project involved cleaning and transforming raw data, implementing data aggregation methods, and conducting complex SQL queries to extract valuable insights.
 
 
 The **findings** obtained from the data analysis are Top-Selling Products, Sales Trends, Regional Performance and Customer Segmentation. These valuable insights helps us to
